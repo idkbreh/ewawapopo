@@ -1,12 +1,5 @@
 ([[
-                This script has been licensed using Luauth
-            Unauthorized distribution of this script is forbidden.
-      Any attempts at tampering, reverse engineering or modifying this script's 
-      internal logic will result in a global ban, and make you blacklisted from
-            every single script that has been licensed with Luauth
-
-        Luauth v1.8 for Roblox, #1 lua whitelisting system by Federal#9999
-				   https://luauth.xyz/
+ 
 
                                    _             _  
      __  _____ _ __ ___ _   ___  _(_)___  __   _/ | 
@@ -16,7 +9,7 @@
                                                     
 
                                                      
-                 Script ID: 897cb42620a37e81f49f4516428fc57c
+               protect by Federal#9999 
 ]])
 
 
