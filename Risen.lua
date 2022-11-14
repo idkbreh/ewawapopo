@@ -1,4 +1,4 @@
-Print("test")
+
 
 ([[
                 This script has been licensed using Luauth
